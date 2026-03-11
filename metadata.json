@@ -1,0 +1,5 @@
+{
+  "name": "Studify",
+  "description": "A mobile-first student platform prototype for event ticketing, ID, schedule, and jobs.",
+  "requestFramePermissions": []
+}
